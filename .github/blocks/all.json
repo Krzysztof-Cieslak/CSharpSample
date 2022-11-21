@@ -1,5 +1,8 @@
 {
   "Program.cs": {
     "default": "githubnext__blocks-examples__code-block"
+  },
+  "ToDoApp.cs": {
+    "default": "githubnext__blocks-examples__code-block"
   }
 }
